@@ -41,3 +41,4 @@ The App will predict the breed of the Dog. Using the input image you provide.
 
 
 ### Give It a Star if you liked the project 
+### Thanks
