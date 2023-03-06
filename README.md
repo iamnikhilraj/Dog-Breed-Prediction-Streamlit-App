@@ -1,4 +1,6 @@
 # Dog-Breed-Prediction-Streamlit-App
+
+This Model can be used to predict different breeds of dogs which can be further used by different NGO's working on saving animals for educational purposes also.
 The App will predict the breed of the Dog. Using the input image you provide.
 
 <div align="center"> <img src="Screenshots/main.png" width="500" height="250"> </center> </div>
