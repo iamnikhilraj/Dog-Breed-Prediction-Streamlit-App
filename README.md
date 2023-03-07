@@ -4,7 +4,7 @@ This Model can be used to predict different breeds of dogs which can be further 
 The App will predict the breed of the Dog. Using the input image you provide.
 
 <div align="center"> <img src="Screenshots/main.png" width="500" height="250"> </center> </div>
-<h3> https://dog-breed-pred-streamlit-app.herokuapp.com/  </h3>
+
 <i>
 
 <p><i> IN THIS PROJECT, WE WILL SEE HOW TO USE KERAS AND TENSORFLOW TO BUILD. TRAIN. AND TEST A CONVOLUTIONAL NEURAL NETWORK CAPABLE OF IDENTIFYING THE BREED OF A DOG IN A SUPPLIED IMAGE. THIS IS A SUPERVISED LEARNING PROBLEM, SPECIFICALLY A MULTICLASS CLASSIFICATION PROBLEM.</p>
